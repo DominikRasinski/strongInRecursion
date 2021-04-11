@@ -1,5 +1,5 @@
 # strongInRecursion
-> Here goes your awesome project description!
+> In this project I try algoritm witch calls recursion, easliest example to represent recursion is match function strong.
 
 ## Table of contents
 * [General info](#general-info)
